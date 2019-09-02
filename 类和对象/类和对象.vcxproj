@@ -115,8 +115,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="class.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="explicit.cpp" />
+    <ClCompile Include="初始化列表课件.cpp" />
+    <ClCompile Include="构造函数体赋值.cpp" />
+    <ClCompile Include="const修饰类的成员函数.cpp" />
+    <ClCompile Include="初始化列表1.cpp" />
+    <ClCompile Include="取地址及const取地址操作符重载.cpp" />
+    <ClCompile Include="拷贝构造函数.cpp" />
+    <ClCompile Include="构造函数.cpp" />
+    <ClCompile Include="赋值运算符重载.cpp" />
+    <ClCompile Include="运算符重载.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

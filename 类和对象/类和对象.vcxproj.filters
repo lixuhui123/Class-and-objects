@@ -15,10 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="class.cpp">
+    <ClCompile Include="赋值运算符重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="拷贝构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="const修饰类的成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="取地址及const取地址操作符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="构造函数体赋值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="初始化列表1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="初始化列表课件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="explicit.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
