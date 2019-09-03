@@ -116,7 +116,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="explicit.cpp" />
+    <ClCompile Include="static成员.cpp" />
+    <ClCompile Include="内部类.cpp" />
     <ClCompile Include="初始化列表课件.cpp" />
+    <ClCompile Include="友元operater.cpp" />
     <ClCompile Include="构造函数体赋值.cpp" />
     <ClCompile Include="const修饰类的成员函数.cpp" />
     <ClCompile Include="初始化列表1.cpp" />

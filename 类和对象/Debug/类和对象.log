@@ -1,5 +1,5 @@
-﻿  explicit.cpp
-e:\bite learn\类和对象\类和对象\explicit.cpp(32): error C2679: 二进制“=”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
-  e:\bite learn\类和对象\类和对象\explicit.cpp(25): note: 可能是“Date &Date::operator =(Date &&)”
-  e:\bite learn\类和对象\类和对象\explicit.cpp(25): note: 或    “Date &Date::operator =(const Date &)”
-  e:\bite learn\类和对象\类和对象\explicit.cpp(32): note: 尝试匹配参数列表“(Date, int)”时
+﻿  static成员.cpp
+  内部类.cpp
+  友元.cpp
+  正在生成代码...
+  类和对象.vcxproj -> E:\bite learn\类和对象\Debug\类和对象.exe
