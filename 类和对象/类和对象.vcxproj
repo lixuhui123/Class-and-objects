@@ -115,8 +115,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="++和--运算符重载.cpp" />
     <ClCompile Include="explicit.cpp" />
     <ClCompile Include="static成员.cpp" />
+    <ClCompile Include="operator应用.cpp" />
     <ClCompile Include="内部类.cpp" />
     <ClCompile Include="初始化列表课件.cpp" />
     <ClCompile Include="友元operater.cpp" />

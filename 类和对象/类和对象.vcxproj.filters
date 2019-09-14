@@ -54,5 +54,11 @@
     <ClCompile Include="友元operater.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="operator应用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="++和--运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
