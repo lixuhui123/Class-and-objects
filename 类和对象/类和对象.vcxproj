@@ -76,6 +76,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -119,6 +120,7 @@
     <ClCompile Include="explicit.cpp" />
     <ClCompile Include="static成员.cpp" />
     <ClCompile Include="operator应用.cpp" />
+    <ClCompile Include="tmp.cpp" />
     <ClCompile Include="内部类.cpp" />
     <ClCompile Include="初始化列表课件.cpp" />
     <ClCompile Include="友元operater.cpp" />

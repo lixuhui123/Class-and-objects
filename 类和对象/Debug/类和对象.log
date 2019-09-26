@@ -1,2 +1,5 @@
-﻿  友元operater.cpp
-  类和对象.vcxproj -> E:\bite learn\类和对象\Debug\类和对象.exe
+﻿  tmp.cpp
+  初始化列表1.cpp
+e:\bite learn\类和对象\类和对象\初始化列表1.cpp(51): error C2530: “test::ri”: 必须初始化引用
+  构造函数体赋值.cpp
+  正在生成代码...
